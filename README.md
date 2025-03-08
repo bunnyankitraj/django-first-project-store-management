@@ -1,0 +1,1 @@
+# django-first-project-store-management
